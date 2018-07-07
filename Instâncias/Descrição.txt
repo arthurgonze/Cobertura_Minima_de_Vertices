@@ -1,0 +1,3 @@
+pequena.txt:   450 vertices, Melhor Cobertura de Vertices =   420
+media.txt:   760 vertices, MCdV =   720
+grande.txt:  1150 vertices, MCdV =  1100

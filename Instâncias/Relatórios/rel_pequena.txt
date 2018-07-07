@@ -1,0 +1,13 @@
+Trabalho de Grafos - Cobertura de Vértices
+Grupo 2: Nome | Matrícula
+	Arthur Gonze Machado | 201435001
+	Ludmilla Yung | 
+	Lucas | 
+	Igor Marchito Zamboni | 
+	Davi | 
+	André Archanjo | 
+
+Análise do Grafo
+Número de Vértices: 450
+
+Cobertura Mínima Gulosa: 434 vértice(s)
