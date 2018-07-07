@@ -21,16 +21,16 @@ Realizado pelo Grupo 2:
 - [x] Verificar se G é trivial
 - [x] Verificar se G é nulo
 - [x] Vizinhança aberta/fechada de um vértice
-- [] Verificar se G é multigrafo
+- [ ] Verificar se G é multigrafo
 - [x] Verificar se G é completo
 - [x] Verificar se G é bipartido
-- [] Listar sequência de Graus de G
+- [ ] Listar sequência de Graus de G
 
 Dado um grafo G(V,E), definir a cobertura de vértices de menor custo
 - [x] Algoritmo Guloso
 - [x] Algoritmo Guloso Randômico
 - [ ] Algoritmo Guloso Randômico Reativo
-- [] Desenvolver Relatório
+- [ ] Desenvolver Relatório
 
 
 #####Compilar pelo terminal
