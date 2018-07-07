@@ -50,6 +50,11 @@ Exemplo de execução por terminal
 
 A 3ª linha das instruções executa o arquivo GRUPO2 passando como parametro a entrada 'pequena.txt' e salvando os dados do processo em 'rel_peq.txt' que se encontrará na pasta de relatórios dentro da pasta de instancias.
 
+- Linguagem : C++
+- Versão Linguagem : C++11
+- IDE : CLion
+- Ambiente : Linux Mint 18.3
+
 
 
 
