@@ -33,7 +33,7 @@ Dado um grafo G(V,E), definir a cobertura de vértices de menor custo
 - [ ] Desenvolver Relatório
 
 
-##### Compilar pelo terminal
+#### Compilar pelo terminal
 
 Comando de Entrada e Saída
 ./GRUPO2 input.txt output.txt
